@@ -1,6 +1,10 @@
 Poetic
 -------
 
+
+.. image:: img/poetic.png
+
+
 Fetaures calculated for classifying poems
 
 

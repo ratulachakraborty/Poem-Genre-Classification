@@ -5,11 +5,11 @@ Poetic
 .. image:: img/poetic.png
 
 
-Fetaures calculated for classifying poems
+An algorithm which classifies genres of a labelled dataset, using machine learning models
 
 
-Few Examples
---------------
+Features
+---------
 
 * Token length
 * Average Token Count

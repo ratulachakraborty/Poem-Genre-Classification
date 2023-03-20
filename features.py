@@ -62,9 +62,4 @@ def empath_finder(poem):
 
 def get_sentiment( string): 
     analysis = TextBlob(string) 
-    if analysis.sentiment.polarity > 0: 
-        return 'positive'
-    elif analysis.sentiment.polarity == 0: 
-        return 'neutral'
-    else: 
-        return 'negative'
+    return analysis.sentiment.polarity
